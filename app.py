@@ -1,7 +1,6 @@
-import tkinter as tk
-from tkinter import messagebox
-from fractions import Fraction
-
+import streamlit as st
+import numpy as np
+import pandas as pd
 
 # ============================================================
 # WARNA TAMPILAN
