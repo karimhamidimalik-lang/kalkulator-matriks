@@ -1619,12 +1619,8 @@ class KalkulatorMatriks:
 # MENJALANKAN PROGRAM
 # ============================================================
 
-if __name__ == "__main__":
+st.divider()
 
-    root = tk.Tk()
-
-    aplikasi = KalkulatorMatriks(
-        root
-    )
-
-    root.mainloop()
+st.caption(
+    'kalkulator Matriks python + Streamlit + NumPy + Pandas"
+)
